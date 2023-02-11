@@ -9,8 +9,7 @@ int c=a+b;
 static void sub()
 {
 int a=5;
-int b=9;
-int c=a-b;
+
 }
 
 public static void main(String[] args)
